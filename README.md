@@ -2,7 +2,7 @@
 
 
 Currently using 
-![919842](https://github.com/user-attachments/assets/2df7a5a0-bed2-49f3-af15-f49560556b48)
+
 
 <!--
 **FailedBarbecue/FailedBarbecue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
