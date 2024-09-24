@@ -1,4 +1,7 @@
-<h1 align="center">Hey there 👽 Eduardo Schiavo</h1>
+<h1 align="center">Hey there 👽</h1>
+
+- My name is Eduardo Schiavo
+
 - I’m currently learning **Nextjs**
 
 - Ask me about **React, Ruby on Rails**
