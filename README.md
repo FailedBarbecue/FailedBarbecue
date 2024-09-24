@@ -1,6 +1,6 @@
-<h1 align="center">Hey there 👽</h1>
+<h1 align="center">Hey there 👽 my name is Eduardo Schiavo</h1>
 
-- My name is Eduardo Schiavo
+
 
 - I’m currently learning **Nextjs**
 
