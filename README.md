@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👽</h1>
 
-<h1 align="center">Eduardo Schiavo</h1>
+<h1 align="start">Eduardo Schiavo</h1>
 
 - I’m currently learning **Nextjs**
 
